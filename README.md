@@ -30,7 +30,7 @@ In my spare time, i like exploring new technologies and I'm always interested in
 
 [webdevplaylist]: https://code.visualstudio.com/
 [jsplaylist]: https://www.javascript.com/
-[cssplaylist]: 
+[cssplaylist]: https://reactjs.org/
 [reactplaylist]: https://reactjs.org/
 <!--
 **AnastasiaTsi/AnastasiaTsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
