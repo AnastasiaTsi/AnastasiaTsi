@@ -15,6 +15,9 @@ In my spare time, i like exploring new hobbies and I'm always interested in a ch
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anastasiatsi&show_icons=true&theme=vue-dark&layout=compact" />
 </a>
 
+<!--
+[![AnastasiaTsi's github stats](https://github-readme-stats.vercel.app/api?username=AnastasiaTsi&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/AnastasiaTsi)
+
 
 
 <!--
