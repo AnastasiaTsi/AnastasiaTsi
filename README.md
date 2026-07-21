@@ -12,7 +12,7 @@ In my spare time, i like exploring new hobbies and I'm always interested in a ch
 ---
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs?username=anastasiatsi&show_icons=true&theme=vue-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anastasiatsi&show_icons=true&theme=vue-dark&layout=compact" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=anastasiatsi&show_icons=true&theme=vue-dark&layout=compact" />
 </a>
 
 <!--
